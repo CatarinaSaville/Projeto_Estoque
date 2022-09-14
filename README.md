@@ -12,6 +12,8 @@ Após clonar o projeto em sua máquina é necessário fazer a instalação do me
 
 npm install
 
+Para que esse projeto rode de fato em sua máquina é necessário que seu banco de dados esteja ativo. Para alinhar ele ao projeto precisa ser alterado na pasta program a versão e a senha do seu banco.
+
 Status do Projeto
 Em andamento.
 
